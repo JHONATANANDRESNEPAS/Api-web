@@ -1,0 +1,6 @@
+@AppiWeb_HostAddress = http://localhost:5238
+
+GET {{AppiWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
