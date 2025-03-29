@@ -1,0 +1,6 @@
+# Ignorar archivos compilados
+bin/
+obj/
+
+
+.vs/
